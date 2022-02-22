@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-	color: #1e3d59;
+	color: #ffc13b;
 	text-align: center;
 }
 
@@ -46,10 +46,11 @@ h2 {
 }
 
 .table-header {
-	background-color: #ff6e40;
+	background-color: #ffc13b;
 	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 0.03em;
+	box-shadow: 0px 0px 9px 0px rgba(255, 110, 64, 0.5);
 }
 
 thead.table-header {
@@ -61,5 +62,5 @@ thead.table-header {
 
 .table-row {
 	background-color: #eed9c4;
-	box-shadow: 0px 0px 9px 0px rgba(255, 193, 59, 0.5);
+	box-shadow: 0px 0px 9px 0px rgba(255, 110, 64, 0.5);
 }
