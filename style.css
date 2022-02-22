@@ -52,7 +52,7 @@ h2 {
 	letter-spacing: 0.03em;
 }
 
-.table-header tr {
+thead.table-header {
 	border-radius: 3px;
 	padding: 25px 30px;
 	justify-content: space-between;
