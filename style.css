@@ -33,6 +33,14 @@ h2 {
 	} */
 }
 
+tr td {
+	padding: 1rem;
+}
+
+tr td:first-child {
+	font-weight: bold;
+}
+
 .responsive-table {
 	background-color: #f5f0e1;
 }
